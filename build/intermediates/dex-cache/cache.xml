@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="999a906e81ed6e5c81e220da18781d8cdd17d60d">
+        <dex dex="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_091679fd8fc319c34fdd9d8effa70a3d691ebd42\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_0ade2d4d202daf588af8165241c602c98305dc6d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_2fc7d60e1e85e2e745b6eb4b2fbc19dfcc6ce6f8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b4e26edc20d3be517f627f3f3598f558b5ab2ece">
+        <dex dex="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d6ad342cd2e1b54fb43c578100bc2b197e1de999\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Choudhury Siddique\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_46a2f0a86afc36f3d78c1ca3bd27fc3d0f1e7c63\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.4_abe2ec9a242f544d1808a9938675c2cea55a446e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Choudhury Siddique\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_7f028948b96d3aaddca7b8902ab0c0eee80a0170\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Choudhury Siddique\AndroidStudioProjects\GPSlogNEW\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_6278c6bb404b8846de5e30a00595ad16b1706d15\classes.dex" />
+    </item>
+
+</items>
